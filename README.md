@@ -18,3 +18,4 @@ iga skripti eesmärk on installeerida või kontrollida mingi tarkvara olemas olu
 
 
 ## Iga skript kontrollib ka juba tarkvara olemasolu ning selle töötavust.
+Küsimuste korral palun kontakteeruge eros.karm@khk.ee, vastan meeleldi. :) 
