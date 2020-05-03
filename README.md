@@ -25,7 +25,6 @@ sh mysql_paigaldus.sh
 apt install git
 ```
 ## GIT'i seadistamine
-*iga skripti eesmärk on installeerida või kontrollida mingi tarkvara olemasolu*
 ```
 git config --global user.name "*** ****"
 git confug --global user.email email@domeen.com
@@ -36,7 +35,7 @@ git config --global core.editor nano
 #### Näide:
 - SERVERIIP/wordpress
 - 192.168.1.10/wordpress
-#
+##
 - SERVERIIP/phpmyadmin
 - 192.168.1.10/phpmyadmin
 
