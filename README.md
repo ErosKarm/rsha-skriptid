@@ -1,7 +1,8 @@
 # RSHA-SKRIPTID. 
-### Antud skriptid on automaatselt töötavad ning kõigile kättesaadavad.
+ Skriptid on automatiseeritud, mis teevad instaleerimis&seadistamise lihtsamaks ning kiiremaks.
+Kõik skriptid on kättesaadaval github.com/eroskarm.
 
-### Paigaldamine
+## Paigaldamine
 ### Antud READme's on erinevad automatiseeritud skripte, mis on kontrollitud ja töökorras. Kõik skriptid on kirjutatud Debian 9.12 versiooniga masina peal.
 ### Skripte saab käivitada järgmise käsuga
 ```
