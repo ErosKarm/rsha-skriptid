@@ -13,7 +13,12 @@ Näide:
 sh apache_paigaldus.sh
 sh mysql_paigaldus.sh
 ```
-
+## Skriptid tuleb käivitada järgmises järjekorras:
+1. apache_paigaldus
+2. mysql_paigaldus
+3. php_paigaldus
+4. pma_paigaldus
+5. wordpress_paigaldus
 
 ## GIT'i paigaldamine
 ```
