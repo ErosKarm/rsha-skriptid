@@ -29,10 +29,10 @@ git config --global core.editor nano
 ## NB!
 ### Selleks, et Te saaksite oma Wordpressile või PHPMYADMIN'ile ligi peate sisestama url vastava serveri ip, koos selle tähisega.
 #### Näide:
-- SERVERIIP/wordpress**
-- 192.168.1.10/wordpress**
+- SERVERIIP/wordpress
+- 192.168.1.10/wordpress
 #
-- SERVERIIP/phpmyadmin**
-- 192.168.1.10/phpmyadmin**
+- SERVERIIP/phpmyadmin
+- 192.168.1.10/phpmyadmin
 
 
