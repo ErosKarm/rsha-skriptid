@@ -73,6 +73,11 @@ wget https://wordpress.org/latest.tar.gz
 tar xzvf latest.tar.gz
 cp wordpress/wp-config-sample.php wordpress/wp-config.php
 mv wordpress /var/www/html
+rm -r /var/www/html/latest.tar.gz
+perl -pi -e "s/satabase_name_here/wordpress/g" /var/www/html/wordpress/wp-config.php
+perl -pi -e "s/username_here/wordpress/g" /var/www/html/wordpress/wp-config.php
+perl -pi -e "s/password_here/qwerty/g" /var/www/html/wordpress/wp-config.php
+echo "Wordpress on töökorras."
 
 #loome andmebaasi wordpressile
 mysql -uroot <<MYSQL_SCRIPT
